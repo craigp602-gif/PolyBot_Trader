@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Quorum",
+      "hasCanvas": false,
+      "bodyTextLen": 2292,
+      "bodyTextHash": "517d8264b9119e9eec3f28e538d067078c3418317c302433cbb315106ebd508d",
+      "bodyTextPrefix": "POLYMARKET US Quorum Paper equity $1,000.00 Not armed · 0/12 pas",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Quorum",
+      "hasCanvas": false,
+      "bodyTextLen": 2293,
+      "bodyTextHash": "cbe33b8b0b302130230b1a2c47073d89a42155f9cb64d1f02fc5eae80843ab18",
+      "bodyTextPrefix": "POLYMARKET US Quorum Paper equity $1,000.00 Not armed · 0/12 pas",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
